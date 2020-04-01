@@ -9,8 +9,6 @@ project:
         - github: 'https://github.com/SFDO-Community/OutboundFunds'
     source_format: sfdx
 
-
-
 orgs:
     scratch:
         dev_namespaced:
